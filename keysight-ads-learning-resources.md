@@ -75,7 +75,7 @@ This document provides a list of resources for learning Keysight ADS.
 
 > The fast dV/dt edges of modern switched-mode converters that benefit from SiC and GaN transistors require new thinking about EDA tools. Keysight EEsof EDA’s products including Advanced Design System (ADS) and Electromagnetic Professional (EMPro) offer are tools that offer solutions for design and simulation of power electronics. Find our more information: http://www.keysight.com/find/eesof-power-electronics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtq84kH8xZ9Gh4zZ7myePZNp4FxtwD7fB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/videoseries?list=PLtq84kH8xZ9Gh4zZ7myePZNp4FxtwD7fB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
