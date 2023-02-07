@@ -1,0 +1,28 @@
+# .gitignore
+
+# archive files
+*.bz2
+*.gz
+*.zip
+*.tar
+
+# common
+log
+*.log
+
+# emacs
+*~
+*#
+
+# jetbrains ide
+*.iml
+.idea/
+
+# inclusions
+!bin/setup.sh
+!bin/.aliases.sh
+
+# Operating system files
+~*.*
+.DS_Store
+Thumbs.db
